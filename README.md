@@ -9,7 +9,7 @@ Our client, Louise, is an up-and-coming playwright and is looking to start a cro
  
  ### Analysis of Outcomes Based on Launch Date
  
- ![Theater_Outcomes_vs_Launch.png] (Theater_Outcomes_vs_Launch.png)
+ ![image] (Theater_Outcomes_vs_Launch.png)
  
 The line chart above depicts the total number of successful, failed, and canceled Kickstarter campaigns for each month. The months that launched the most successful theater Kickstarter campaigns were May and June. However, April, July, and October all had the same number of failed campaigns launched. Thus, theater campaigns are more successful launching in the early summer months and taper off by the end of the year. 
  
