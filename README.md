@@ -9,13 +9,13 @@ Our client, Louise, is an up-and-coming playwright and is looking to start a cro
  
  ### Analysis of Outcomes Based on Launch Date
  
- ![Theater_Outcomes_vs_Launch] (path/to/Theater_Outcomes_vs_Launch.png)
+ ![Theater_Outcomes_vs_Launch] (Kickstarter-Analysis/Theater_Outcomes_vs_Launch.png)
  
 The line chart above depicts the total number of successful, failed, and canceled Kickstarter campaigns for each month. The months that launched the most successful theater Kickstarter campaigns were May and June. However, April, July, and October all had the same number of failed campaigns launched. Thus, theater campaigns are more successful launching in the early summer months and taper off by the end of the year. 
  
  ### Analysis of Outcomes Based on Goals
  
-![Outcomes_vs_Goals] (path/to/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals] (Kickstarter-Analysis/Outcomes_vs_Goals.png)
  
 After analyzing the failed and successful Kickstarter campaigns in the US, I found that failed Kickstarter campaigns had much higher campaign goals than successful Kickstarters. Based on this data, Louise is asking for more than twice her average successful Kickstarter goal. Also, the mean and median pledged amounts are much lower than the successful pledges which indicates that failed Kickstarter campaigns are unsuccessful for reasons other than asking for too much money. Since the median is much lower there must be another factor in keeping people from pledging to those unsuccessful projects. 
  
@@ -23,11 +23,11 @@ After analyzing the failed and successful Kickstarter campaigns in the US, I fou
  
  ## Results
    
-###What are some limitations of this dataset?
+ ### What are some limitations of this dataset?
 
 While combing through the data set there were some limitations that I noticed. First, there were no metrics that describe the success of each industry/category during the time. It would be helpful to have data that shows whether or not each industry/ category did well during its time. This could help us account for external factors while analyzing the data. 
  
-###What are some other possible tables and/or graphs that we could create?
+ ### What are some other possible tables and/or graphs that we could create?
  
 Some other tables and graphs that we could create are tables showing the most successful categories/subcategories with detailed data into each category/subcategory's level of success. Possible metrics include success rate per category, measures of central tendency for goals, average donation, percent funded, etc. 
 
