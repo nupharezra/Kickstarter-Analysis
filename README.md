@@ -11,15 +11,19 @@ Our client, Louise, is an up-and-coming playwright and is looking to start a cro
  
  ![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
  
-The line chart above depicts the total number of successful, failed, and canceled Kickstarter campaigns for each month. The months that launched the most successful theater Kickstarter campaigns were May and June. However, April, July, and October all had the same number of failed campaigns launched. Thus, theater campaigns are more successful launching in the early summer months and taper off by the end of the year. 
+The line chart above depicts the total number of successful, failed, and canceled Kickstarter campaigns for each month. The months that launched the most successful theater Kickstarter campaigns were May and June. However, April, July, and October all had the same number of failed campaigns launched. Thus, theater campaigns are more successful launching in the early summer months and taper off by the end of the year. Although if look at total number of theater Kickstarters based on the year, you notice that there was a dramatic increase from 2014-2016 and drop off exponentially in 2017.  
+
+![Theatervsyr](Theatervsyr.png)
  
  ### Analysis of Outcomes Based on Goals
  
 ![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
  
-After analyzing the failed and successful Kickstarter campaigns in the US, I found that failed Kickstarter campaigns had much higher campaign goals than successful Kickstarters. Based on this data, Louise is asking for more than twice her average successful Kickstarter goal. Also, the mean and median pledged amounts are much lower than the successful pledges which indicates that failed Kickstarter campaigns are unsuccessful for reasons other than asking for too much money. Since the median is much lower there must be another factor in keeping people from pledging to those unsuccessful projects. 
+After analyzing the failed and successful Kickstarter campaigns in the US, I found that failed Kickstarter campaigns had much higher campaign goals than successful Kickstarters. Based on this data, Louise is asking for more than twice her average successful Kickstarter goal. Also, the mean and median pledged amounts are much lower than the successful pledges which indicates that failed Kickstarter campaigns are unsuccessful for reasons other than asking for too much money. Since the median is much lower there must be another factor in keeping people from pledging to those unsuccessful projects.  
  
  ### Challenges and Difficulties Encountered
+ 
+ 
  
  ## Results
    
